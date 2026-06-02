@@ -13,3 +13,16 @@ UBMEC Dataset
 
 ```bash
 python src/train.py
+
+---
+
+### 2. requirements.txt
+
+Terminal:
+
+```bash
+pip freeze > requirements.txt
+
+git add requirements.txt
+git commit -m "Add requirements"
+git push
