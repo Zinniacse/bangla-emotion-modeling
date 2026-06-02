@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Logs
+logs/
+
+
+# Trained models
+models/*.pt
+models/*.pth
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store

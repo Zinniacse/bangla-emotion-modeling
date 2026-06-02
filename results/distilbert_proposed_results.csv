@@ -1,0 +1,2 @@
+experiment,accuracy,macro_f1,precision_macro,recall_macro,total_params,trainable_params,model_size_mb,teacher_model,student_model,train_samples,test_samples
+DistilBERT + Our Proposed Method,0.526668320516001,0.4953238238178612,0.4993088867277569,0.49296469033412676,136122125,136122125,519.2646980285645,bert-base-multilingual-cased,distilbert-base-multilingual-cased,9405,4031
